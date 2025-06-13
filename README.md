@@ -50,7 +50,7 @@ Ethical hacking ve güvenlik testleri için tasarlanmıştır.
 5. Script'i çalıştır:
 
     ```bash
-    python specter.py
+    python menü.py
     ```
 
 ---
